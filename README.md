@@ -1,4 +1,4 @@
-![banner](https://github.com/Lazaro-Costa/animais-fantasticos/blob/master/design/mockup.gif?raw=true)
+![banner](https://github.com/Lazaro-Costa/animais-fantasticos/blob/main/design/mockup.gif?raw=true)
 
 # Animais Fantásticos
 
